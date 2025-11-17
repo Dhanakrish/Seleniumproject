@@ -65,3 +65,18 @@
 2025-11-17 15:50:55 INFO  SauceCart - Removing cart from cart
 2025-11-17 15:50:55 INFO  SauceCart - Chcking cart count
 2025-11-17 15:50:55 INFO  SauceCart - Item removed successfully. updated count=1
+2025-11-17 19:27:09 INFO  OrderCompletion - Starting browser
+2025-11-17 19:27:13 INFO  OrderCompletion - open the webiste
+2025-11-17 19:27:14 INFO  OrderCompletion - Logging into SauceDemo
+2025-11-17 19:28:38 INFO  OrderCompletion - Starting browser
+2025-11-17 19:28:41 INFO  OrderCompletion - open the webiste
+2025-11-17 19:28:42 INFO  OrderCompletion - Logging into SauceDemo
+2025-11-17 19:51:24 INFO  OrderCompletion - Starting browser
+2025-11-17 19:51:27 INFO  OrderCompletion - open the webiste
+2025-11-17 19:51:28 INFO  OrderCompletion - Logging into SauceDemo
+2025-11-17 19:53:30 INFO  OrderCompletion - Starting browser
+2025-11-17 19:53:32 INFO  OrderCompletion - open the webiste
+2025-11-17 19:53:33 INFO  OrderCompletion - Logging into SauceDemo
+2025-11-17 19:57:25 INFO  OrderCompletion - Starting browser
+2025-11-17 19:57:28 INFO  OrderCompletion - open the webiste
+2025-11-17 19:57:29 INFO  OrderCompletion - Logging into SauceDemo
