@@ -1,0 +1,67 @@
+2025-11-17 15:05:03 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:05:04 INFO  SauceCart - Navigated to SauceDemo website
+2025-11-17 15:05:04 INFO  SauceCart - Entering username
+2025-11-17 15:05:04 INFO  SauceCart - Entering password
+2025-11-17 15:05:04 INFO  SauceCart - Clicking Login button
+2025-11-17 15:05:04 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:05:04 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:05:05 INFO  SauceCart - Checking cart count
+2025-11-17 15:05:05 INFO  SauceCart - The cart count is correct: 2
+2025-11-17 15:05:05 INFO  SauceCart - Closing browser
+2025-11-17 15:24:47 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:24:47 INFO  SauceCart - Navigated to SauceDemo website
+2025-11-17 15:24:48 INFO  SauceCart - Entering username
+2025-11-17 15:24:48 INFO  SauceCart - Entering password
+2025-11-17 15:24:48 INFO  SauceCart - Clicking Login button
+2025-11-17 15:24:48 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:24:48 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:24:48 INFO  SauceCart - Checking cart count
+2025-11-17 15:24:48 INFO  SauceCart - The cart count is correct: 2
+2025-11-17 15:24:48 INFO  SauceCart - Closing browser
+2025-11-17 15:46:12 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:46:14 INFO  SauceCart - Entering username
+2025-11-17 15:46:14 INFO  SauceCart - Entering password
+2025-11-17 15:46:14 INFO  SauceCart - Clicking Login button
+2025-11-17 15:46:14 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:46:14 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:46:14 INFO  SauceCart - Checking cart count
+2025-11-17 15:46:14 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:47:54 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:47:55 INFO  SauceCart - Entering username
+2025-11-17 15:47:55 INFO  SauceCart - Entering password
+2025-11-17 15:47:55 INFO  SauceCart - Clicking Login button
+2025-11-17 15:47:55 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:47:56 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:47:56 INFO  SauceCart - Checking cart count
+2025-11-17 15:47:56 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:47:56 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:49:07 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:49:08 INFO  SauceCart - Entering username
+2025-11-17 15:49:08 INFO  SauceCart - Entering password
+2025-11-17 15:49:08 INFO  SauceCart - Clicking Login button
+2025-11-17 15:49:08 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:49:09 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:49:09 INFO  SauceCart - Checking cart count
+2025-11-17 15:49:09 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:49:09 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:50:09 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:50:10 INFO  SauceCart - Entering username
+2025-11-17 15:50:10 INFO  SauceCart - Entering password
+2025-11-17 15:50:10 INFO  SauceCart - Clicking Login button
+2025-11-17 15:50:10 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:50:10 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:50:10 INFO  SauceCart - Checking cart count
+2025-11-17 15:50:10 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:50:10 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:50:10 INFO  SauceCart - Chcking cart count
+2025-11-17 15:50:53 INFO  SauceCart - Browser launched successfully
+2025-11-17 15:50:54 INFO  SauceCart - Entering username
+2025-11-17 15:50:55 INFO  SauceCart - Entering password
+2025-11-17 15:50:55 INFO  SauceCart - Clicking Login button
+2025-11-17 15:50:55 INFO  SauceCart - Adding Backpack to cart
+2025-11-17 15:50:55 INFO  SauceCart - Adding Bike Light to cart
+2025-11-17 15:50:55 INFO  SauceCart - Checking cart count
+2025-11-17 15:50:55 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:50:55 INFO  SauceCart - Removing cart from cart
+2025-11-17 15:50:55 INFO  SauceCart - Chcking cart count
+2025-11-17 15:50:55 INFO  SauceCart - Item removed successfully. updated count=1
